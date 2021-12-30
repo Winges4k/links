@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | ASHARQ NEWS FHD
+http://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Jazeera FHD
+http://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR |Al Jazeera Mubasher  FHD
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Arabiya FHD
+http://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Arabiya Al Hadath
+http://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_1.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR |Alhurra Tv Iraq
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Manar HD
+http://manar.live/iptv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Hurra HD
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | RT France News HD
+http://rt-fra.gcdn.co/live/rtfrance/playlist_4500Kb.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | BBC Arabic
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch26.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | BBC Arabic*
+http://85.24.140.135:8001/1:0:1:332e:1388:13e:820000:0:0:0:
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 2ky-News Arabia
+http://213.162.209.90:30080/Apple/26E-1-SkyNewsArabia
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 2ky-News Arabia
+http://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | France 24 Arabic HD
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/01.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | DW ARABIA HD
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | CGNT News Arabia
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Hiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | CNBC ARABIA
+https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8?p=47&s=1640612900&e=1640699300&cf=1640699300&h=4c01204ea8e39552e33a4918770ec304
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | TRT ARABIC NEWS
+http://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | RUSSIYA ALYAWM NEWS
+http://rt-arb.gcdn.co/live/rtarab/playlist_4500Kb.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | RUSSIYA ALYAWM NEWS*
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch92.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | CNN ARABIC NEWS
+#
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Al Yaoum
+https://ikomg1.s.llnwi.net/alyaumtv/3-01.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | MEKAMELEEN NEWS
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1264000.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | AL MAYADEEN
+http://lmdstrm.cdn.octivid.com:80/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | AL JAZEERA ENGLISH FHD
+http://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | Misk Live
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/live/ch45.m3u8
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR |
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR |
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR | 
+#EXTINF:0 tvg-name="" tvg-ID="" tvg-logo="https://" group-title="News TV",AR |
