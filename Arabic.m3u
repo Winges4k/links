@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="AR | Al Jazeera HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/ALJAZEERA.png" group-title="QATAR TV",AR | Al Jazeera HD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-name="AR | Al Jazeera Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" group-title="QATAR TV",AR | Al Jazeera Sd
