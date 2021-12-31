@@ -1,0 +1,39 @@
+EXTM3U
+#EXTINF:-1 radio="false" tvg-name="AR | Al Jazeera HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/ALJAZEERA.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera HD
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Jazeera Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera Sd
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 radio="false" tvg-id="Al Jazeera English HD" tvg-name="AR | Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 radio="false" tvg-id="Al Jazeera English HD" tvg-name="AR | Al Jazeera English Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera English Sd
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Jazeera Mobashir HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Al_Jazeera_Mubasher.png/150px-Al_Jazeera_Mubasher.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera Mobashir HD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Jazeera Mubasher Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Al_Jazeera_Mubasher.png/150px-Al_Jazeera_Mubasher.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera Mubasher Sd
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Jazeera Documentary HD" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera Documentary HD
+http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12643
+#EXTINF:-1 radio="false" tvg-name="AR | Al Jazeera Documentary" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="QATAR TV قنوات قطرية",AR | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Araby HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="QATAR TV قنوات قطرية",AR | Al Araby HD
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Araby Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="QATAR TV قنوات قطرية",AR | Al Araby Sd
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Rayan 1 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="QATAR TV قنوات قطرية",AR | Rayan 1 HD
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Rayan Qadim HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="QATAR TV قنوات قطرية",AR | Rayan Qadim HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Qatar 1 HD" tvg-logo="https://www.qtv.qa/assets/2020/images/qtv.png" group-title="QATAR TV قنوات قطرية",AR | Qatar 1 HD
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" group-title="QATAR TV قنوات قطرية",AR | Al Kass Sports 1
+http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12650
+#EXTINF:-1 radio="false" tvg-name="AR | Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport2.png" group-title="QATAR TV قنوات قطرية",AR | Al Kass Sports 2
+http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12651
+#EXTINF:-1 radio="false" tvg-name="AR | Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/qa-al-kass-four.png" group-title="QATAR TV قنوات قطرية",AR | Al Kass Sports 4
+http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12652
+#EXTINF:-1 radio="false" tvg-name="AR | Al Kass Sports Online" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="QATAR TV قنوات قطرية",AR | Al Kass Sports Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_720p/hdntl=exp=1623071151~acl=%2f*~data=hdntl~hmac=3de86b6585572c3206a0dbc497e9534df92a8ebfff152b13a50a1f135aea385c/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Qatar 2 HD" tvg-logo="https://www.qtv.qa/assets/2020/images/qtvTwo.png" group-title="QATAR TV قنوات قطرية",AR | Qatar 2 HD
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="QATAR TV قنوات قطرية",AR | Al Kass Sports 5
+http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12654
