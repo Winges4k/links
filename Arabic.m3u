@@ -1,79 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AR | Al Jazeera HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/ALJAZEERA.png" group-title="QATAR TV",AR | Al Jazeera HD
+#EXTINF:-0 tvg-name="AR | Al Jazeera HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/NEWS/ALJAZEERA.png" group-title="QATAR TV",AR | Al Jazeera HD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-name="AR | Al Jazeera Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" group-title="QATAR TV",AR | Al Jazeera Sd
+#EXTINF:-0 tvg-name="AR | Al Jazeera Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" group-title="QATAR TV",AR | Al Jazeera Sd
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="AR | Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" group-title="QATAR TV",AR | Al Jazeera English HD
+#EXTINF:-0 tvg-id="Al Jazeera English HD" tvg-name="AR | Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" group-title="QATAR TV",AR | Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="AR | Al Jazeera English Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" group-title="QATAR TV",AR | Al Jazeera English Sd
+#EXTINF:-0 tvg-id="Al Jazeera English HD" tvg-name="AR | Al Jazeera English Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" group-title="QATAR TV",AR | Al Jazeera English Sd
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-name="AR | Al Jazeera Mobashir HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Al_Jazeera_Mubasher.png/150px-Al_Jazeera_Mubasher.png" group-title="QATAR TV",AR | Al Jazeera Mobashir HD
+#EXTINF:-0 tvg-name="AR | Al Jazeera Mobashir HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Al_Jazeera_Mubasher.png/150px-Al_Jazeera_Mubasher.png" group-title="QATAR TV",AR | Al Jazeera Mobashir HD
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-name="AR | Al Jazeera Mubasher Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Al_Jazeera_Mubasher.png/150px-Al_Jazeera_Mubasher.png" group-title="QATAR TV",AR | Al Jazeera Mubasher Sd
+#EXTINF:-0 tvg-name="AR | Al Jazeera Mubasher Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Al_Jazeera_Mubasher.png/150px-Al_Jazeera_Mubasher.png" group-title="QATAR TV",AR | Al Jazeera Mubasher Sd
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
-#EXTINF:-1 tvg-name="AR | Al Jazeera Documentary HD" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="QATAR TV",AR | Al Jazeera Documentary HD
-http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12643
-#EXTINF:-1 tvg-name="AR | Al Jazeera Documentary" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="QATAR TV",AR | Al Jazeera Documentary
+#EXTINF:-0 tvg-name="AR | Al Jazeera Documentary HD" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="QATAR TV",AR | Al Jazeera Documentary HD
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:-1 tvg-name="AR | Al Araby HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="QATAR TV",AR | Al Araby HD
+#EXTINF:-0 tvg-name="AR | Al Jazeera Documentary" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/ajd-sm.png" group-title="QATAR TV",AR | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:-0 tvg-name="AR | Al Araby HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="QATAR TV",AR | Al Araby HD
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="AR | Al Araby Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="QATAR TV",AR | Al Araby Sd
+#EXTINF:-0 tvg-name="AR | Al Araby Sd" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaraby.png" group-title="QATAR TV",AR | Al Araby Sd
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:-1 tvg-name="AR | Rayan 1 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="QATAR TV",AR | Rayan 1 HD
+#EXTINF:-0 tvg-name="AR | Rayan 1 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="QATAR TV",AR | Rayan 1 HD
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
-#EXTINF:-1 tvg-name="AR | Rayan Qadim HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="QATAR TV",AR | Rayan Qadim HD
+#EXTINF:-0 tvg-name="AR | Rayan Qadim HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/akrayyan1.png" group-title="QATAR TV",AR | Rayan Qadim HD
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
-#EXTINF:-1 tvg-name="AR | Qatar 1 HD" tvg-logo="https://www.qtv.qa/assets/2020/images/qtv.png" group-title="QATAR TV",AR | Qatar 1 HD
+#EXTINF:-0 tvg-name="AR | Qatar 1 HD" tvg-logo="https://www.qtv.qa/assets/2020/images/qtv.png" group-title="QATAR TV",AR | Qatar 1 HD
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
-#EXTINF:-1 tvg-name="AR | Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" group-title="QATAR TV",AR | Al Kass Sports 1
-http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12650
-#EXTINF:-1 tvg-name="AR | Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport2.png" group-title="QATAR TV",AR | Al Kass Sports 2
-http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12651
-#EXTINF:-1 tvg-name="AR | Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/qa-al-kass-four.png" group-title="QATAR TV",AR | Al Kass Sports 4
-http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12652
-#EXTINF:-1 tvg-name="AR | Al Kass Sports Online" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="QATAR TV",AR | Al Kass Sports Online
+#EXTINF:-0 tvg-name="AR | Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" group-title="QATAR TV",AR | Al Kass Sports 3
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/playlist.m3u8
+#EXTINF:-0 tvg-name="AR | Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" group-title="QATAR TV",AR | Al Kass Sports 1
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist.m3u8
+#EXTINF:-0 tvg-name="AR | Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport2.png" group-title="QATAR TV",AR | Al Kass Sports 2
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkas2b.smil/chunklist.m3u8
+#EXTINF:-0 tvg-name="AR | Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/qa-al-kass-four.png" group-title="QATAR TV",AR | Al Kass Sports 4
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass4a.smil/playlist.m3u8
+#EXTINF:-0 tvg-name="AR | Al Kass Sports Online" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="QATAR TV",AR | Al Kass Sports Online
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinei1/AlkassOnline129_720p/hdntl=exp=1623071151~acl=%2f*~data=hdntl~hmac=3de86b6585572c3206a0dbc497e9534df92a8ebfff152b13a50a1f135aea385c/chunklist.m3u8
-#EXTINF:-1 tvg-name="AR | Qatar 2 HD" tvg-logo="https://www.qtv.qa/assets/2020/images/qtvTwo.png" group-title="QATAR TV",AR | Qatar 2 HD
+#EXTINF:-0 tvg-name="AR | Qatar 2 HD" tvg-logo="https://www.qtv.qa/assets/2020/images/qtvTwo.png" group-title="QATAR TV",AR | Qatar 2 HD
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
-#EXTINF:-1 tvg-name="AR | Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="QATAR TV",AR | Al Kass Sports 5
-http://cms-winges4k.com:25461/XXXXXXXX/XXXXXXXX/12654
-#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="AR | MBC 1 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="MBC GROUPE",AR | MBC 1 FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/61097
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC 2 FHD" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/MBC/mbc-2.png" group-title="MBC GROUPE",AR | MBC 2 FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/69511
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="AR | MBC 3 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc3-logo.png" group-title="MBC GROUPE",AR | MBC 3 FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/61101
-#EXTINF:-1 tvg-id="mbc5.ae" tvg-name="AR | MBC 5 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc5.png" group-title="MBC GROUPE",AR | MBC 5 FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/61105
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="MBC GROUPE",AR | MBC Max FHD
+#EXTINF:-0 tvg-name="AR | Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" group-title="QATAR TV",AR | Al Kass Sports 5
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass5a.smil/playlist.m3u8
+#EXTINF:-0 tvg-id="mbc1.ae" tvg-name="AR | MBC 1 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc1.png" group-title="MBC GROUPE",AR | MBC 1 FHD
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_1.m3u8
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="AR | MBC 2 FHD" tvg-logo="https://ia601406.us.archive.org/10/items/logoschannels/MBC/mbc-2.png" group-title="MBC GROUPE",AR | MBC 2 FHD
+http://www.elahmad.com/tv/hls/app.php?id=95
+#EXTINF:-0 tvg-id="mbc3.ae" tvg-name="AR | MBC 3 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc3-logo.png" group-title="MBC GROUPE",AR | MBC 3 FHD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-0 tvg-id="mbc5.ae" tvg-name="AR | MBC 5 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc5.png" group-title="MBC GROUPE",AR | MBC 5 FHD
+http://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-0 tvg-id="mbcmax.ae" tvg-name="AR | MBC Max FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-max.png" group-title="MBC GROUPE",AR | MBC Max FHD
 http://cms-winges4k.com:25461/415820959997/415820959997/72
-#EXTINF:-1 tvg-id="mbcaction.sa" tvg-name="AR | MBC Action HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-action.png" group-title="MBC GROUPE",AR | MBC Action HD
+#EXTINF:-0 tvg-id="mbcaction.sa" tvg-name="AR | MBC Action HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-action.png" group-title="MBC GROUPE",AR | MBC Action HD
 http://cms-winges4k.com:25461/415820959997/415820959997/65
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="AR | MBC Masr 2 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-maser2.png" group-title="MBC GROUPE",AR | MBC Masr 2 FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/78
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="AR | MBC Drama + FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-drama-plus.png" group-title="MBC GROUPE",AR | MBC Drama + FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/66
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="AR | MBC Drama HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-drama.png" group-title="MBC GROUPE",AR | MBC Drama HD
-http://cms-winges4k.com:25461/415820959997/415820959997/67
-#EXTINF:-1 tvg-id="mbciraq.ae" tvg-name="AR | MBC Iraq FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-iraq.png" group-title="MBC GROUPE",AR | MBC Iraq FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/74
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="AR | MBC Masr FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-maser.png" group-title="MBC GROUPE",AR | MBC Masr FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/76
-#EXTINF:-1 tvg-id="7f8c260d97dc5d1efa2f49539f301964" tvg-name="AR | Wanasah FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/wanasa.png" group-title="MBC GROUPE",AR | Wanasah FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/80
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC Fm FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-fm.png" group-title="MBC GROUPE",AR | MBC Fm FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/10458
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | Panorama Fm FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-panorama.png" group-title="MBC GROUPE",AR | Panorama Fm FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/10459
-#EXTINF:-1 tvg-id="mbcbollywood.sa" tvg-name="AR | MBC Bollywood HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-bollywood.png" group-title="MBC GROUPE",AR | MBC Bollywood HD
-http://cms-winges4k.com:25461/415820959997/415820959997/10460
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | MBC Persia FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-persia.png" group-title="MBC GROUPE",AR | MBC Persia FHD
-http://cms-winges4k.com:25461/415820959997/415820959997/10457
-#EXTINF:-1 tvg-id="zeealwan.ae" tvg-name="AR | ZEE ALWAN HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/ZEEALWAN.png" group-title="MBC GROUPE",AR | ZEE ALWAN HD
-http://cms-winges4k.com:25461/415820959997/415820959997/17747
-#EXTINF:-1 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MBC GROUPE",AR | B4U AFLAM SD
+#EXTINF:-0 tvg-id="mbcmasr2.eg" tvg-name="AR | MBC Masr 2 FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-maser2.png" group-title="MBC GROUPE",AR | MBC Masr 2 FHD
+http://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-0 tvg-id="mbcdrama.ae" tvg-name="AR | MBC Drama + FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-drama-plus.png" group-title="MBC GROUPE",AR | MBC Drama + FHD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:-0 tvg-id="mbcdrama.ae" tvg-name="AR | MBC Drama HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-drama.png" group-title="MBC GROUPE",AR | MBC Drama HD
+http://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:-0 tvg-id="mbciraq.ae" tvg-name="AR | MBC Iraq FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-iraq.png" group-title="MBC GROUPE",AR | MBC Iraq FHD
+http://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-0 tvg-id="mbcmasr.eg" tvg-name="AR | MBC Masr FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-maser.png" group-title="MBC GROUPE",AR | MBC Masr FHD
+http://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:-0 tvg-id="7f8c260d97dc5d1efa2f49539f301964" tvg-name="AR | Wanasah FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/wanasa.png" group-title="MBC GROUPE",AR | Wanasah FHD
+http://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="AR | MBC Fm FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-fm.png" group-title="MBC GROUPE",AR | MBC Fm FHD
+http://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="AR | Panorama Fm FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-panorama.png" group-title="MBC GROUPE",AR | Panorama Fm FHD
+http://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+#EXTINF:-0 tvg-id="mbcbollywood.sa" tvg-name="AR | MBC Bollywood HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-bollywood.png" group-title="MBC GROUPE",AR | MBC Bollywood HD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="AR | MBC Persia FHD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/mbc-persia.png" group-title="MBC GROUPE",AR | MBC Persia FHD
+http://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:-0 tvg-id="zeealwan.ae" tvg-name="AR | ZEE ALWAN HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/logos/main/MBC/ZEEALWAN.png" group-title="MBC GROUPE",AR | ZEE ALWAN HD
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-id="B4UPlus.ae" tvg-name="AR | B4U AFLAM SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MBC GROUPE",AR | B4U AFLAM SD
 http://cms-winges4k.com:25461/415820959997/415820959997/33913
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR | ZEE AFLAM HD" tvg-logo="http://www.zeeaflam.com/wp-content/themes/zeeaflam/images/logo.png" group-title="MBC GROUPE",AR | ZEE AFLAM HD
-http://cms-winges4k.com:25461/415820959997/415820959997/33706
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR |  FILMBOX EXTRA HD" tvg-logo="" group-title="MBC GROUPE",AR |  FILMBOX EXTRA HD
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="AR | ZEE AFLAM HD" tvg-logo="http://www.zeeaflam.com/wp-content/themes/zeeaflam/images/logo.png" group-title="MBC GROUPE",AR | ZEE AFLAM HD
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-id="(no tvg-id)" tvg-name="AR |  FILMBOX EXTRA HD" tvg-logo="" group-title="MBC GROUPE",AR |  FILMBOX EXTRA HD
 http://cms-winges4k.com:25461/415820959997/415820959997/71763
