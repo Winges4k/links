@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:1,DE | RTL LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl-live/
+#EXTINF:1,DE | RTL2 LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl2-live/
+#EXTINF:1,DE | VOX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/vox/
+#EXTINF:1,DE | N TV LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/n-tv-live/
+#EXTINF:1,DE | RTL NITRO LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl-nitro-live/
+#EXTINF:1,DE | SUPER RTL LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/super-rtl-live/
+#EXTINF:1,DE | TLC
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/tlc/
+#EXTINF:1,DE | PRO7
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/pro7/
+#EXTINF:1,DE | PROSIEBEN MAXX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/prosieben-maxx/
+#EXTINF:1,DE | KABEL 1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/kabel-1/
+#EXTINF:1,DE | SAT1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sat1/
+#EXTINF:1,DE | SIXX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sixx/
+#EXTINF:1,DE | DMAX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/dmax/
+#EXTINF:1,DE | KABEL 1 DOKU
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/kabel-1-doku/
+#EXTINF:1,DE | DISNEY CHANNEL
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/disney-channel/
+#EXTINF:1,DE | TELE 5
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/tele-5/
+#EXTINF:1,DE | ARD
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/ard/
+#EXTINF:1,DE | ZDF
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/zdf/
+#EXTINF:1,DE | SKY SPORT NEWS HD LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sky-sport-news-hd-live/
+#EXTINF:1,DE | SPORT1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sport1/
+#EXTINF:1,DE | SAT1 GOLD
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sat1-gold/
+#EXTINF:1,DE | KIKA
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/kika/
+#EXTINF:1,DE | COMEDY CENTRAL
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/comedy-central/
+#EXTINF:1,DE | 3SAT
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/3sat/
+#EXTINF:1,DE | WELT
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/welt/
+#EXTINF:1,DE | ZDFINFO
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/zdfinfo/
+#EXTINF:1,DE | ZDFNEO
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/zdfneo/
+#EXTINF:1,DE | ARTE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/arte/
+#EXTINF:1,DE | NICKELODEON
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/nickelodeon/
+#EXTINF:1,DE | DEUTSCHE WELLE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/deutsche-welle/
+#EXTINF:1,DE | TAGESSCHAU
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/tagesschau/
+#EXTINF:1,DE | MDR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/mdr-fernsehen/
+#EXTINF:1,DE | WDR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/wdr-fernsehen/
+#EXTINF:1,DE | BR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/br-fernsehen/
+#EXTINF:1,DE | MDF 1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/mdf-1/
+#EXTINF:1,DE | ONE TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/one-tv/
+#EXTINF:1,DE | RBB FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rbb-fernsehen/
+#EXTINF:1,DE | WELT DER WUNDER
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/welt-der-wunder/
+#EXTINF:1,DE | PHOENIX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/phoenix/
+#EXTINF:1,DE | HR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/hr-fernsehen/
+#EXTINF:1,DE | ALEX BERLIN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/alex-berlin/
+#EXTINF:1,DE | NDR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/ndr-fernsehen/
+#EXTINF:1,DE | MTV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/mtv/
+#EXTINF:1,DE | BLOOMBERG TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/bloomberg-tv/
+#EXTINF:1,DE | SWR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/swr-fernsehen/
+#EXTINF:1,DE | SR FERNSEHEN
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sr-fernsehen/
+#EXTINF:1,DE | CATEGORYDEUTSCHE TV SENDER
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/category/deutsche-tv-sender/
+#EXTINF:1,DE | CATEGORYOESTERREICHISCHE TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/category/oesterreichische-tv/
+#EXTINF:1,DE | CATEGORYSCHWEIZER TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/category/schweizer-tv/
+
+#EXTINF:1,DE | RTL LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl-live/
+#EXTINF:1,DE | RTL2 LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl2-live/
+#EXTINF:1,DE | VOX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/vox/
+#EXTINF:1,DE | N TV LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/n-tv-live/
+#EXTINF:1,DE | RTL NITRO LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl-nitro-live/
+#EXTINF:1,DE | SUPER RTL LIVE
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/super-rtl-live/
+#EXTINF:1,DE | TLC
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/tlc/
+#EXTINF:1,DE | PRO7
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/pro7/
+#EXTINF:1,DE | PROSIEBEN MAXX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/prosieben-maxx/
+#EXTINF:1,DE | KABEL 1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/kabel-1/
+#EXTINF:1,DE | SAT1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sat1/
+#EXTINF:1,DE | SIXX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/sixx/
+#EXTINF:1,DE | DMAX
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/dmax/
+#EXTINF:1,DE | KABEL 1 DOKU
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/kabel-1-doku/
+#EXTINF:1,DE | DISNEY CHANNEL
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/disney-channel/
+#EXTINF:1,DE | TELE 5
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/tele-5/
+#EXTINF:1,DE | ARD
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/ard/
+#EXTINF:1,DE | ZDF
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/zdf/
+#EXTINF:1,DE | ORF1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/orf1/
+#EXTINF:1,DE | ORF2
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/orf2/
+#EXTINF:1,DE | ORF3
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/orf3/
+#EXTINF:1,DE | SERVUS TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/servus-tv/
+#EXTINF:1,DE | LAENDLE TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/laendle-tv/
+#EXTINF:1,DE | FS1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/fs1/
+#EXTINF:1,DE | M4TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/m4tv/
+#EXTINF:1,DE | W24 TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/w24-tv/
+#EXTINF:1,DE | TIROL TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/tirol-tv/
+#EXTINF:1,DE | OKTO TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/okto-tv/
+#EXTINF:1,DE | DORF TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/dorf-tv/
+#EXTINF:1,DE | CATEGORYDEUTSCHE TV SENDER
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/category/deutsche-tv-sender/
+#EXTINF:1,DE | CATEGORYOESTERREICHISCHE TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/category/oesterreichische-tv/
+#EXTINF:1,DE | CATEGORYSCHWEIZER TV
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/category/schweizer-tv/
+
+#EXTINF:1,DE | SRF 2
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/srf-2/
+#EXTINF:1,DE | SRF 1
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/srf-1/
+#EXTINF:1,DE | SRF INFO
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/srf-info/
+#EXTINF:1,DE | 3 PLUS
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/3-plus/
+#EXTINF:1,DE | 4 PLUS
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/4-plus/
+#EXTINF:1,DE | 5 PLUS
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/5-plus/
+#EXTINF:1,DE | 6 PLUS
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/6-plus/
